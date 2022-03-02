@@ -1,0 +1,82 @@
+Last login: Wed Mar  2 18:17:19 on ttys000
+matthewho@Matthews-MacBook-Pro-2 ~ % traceroute www.usyd.edu.au
+traceroute: Warning: www.usyd.edu.au has multiple addresses; using 52.64.230.198
+traceroute to rpxy-loadb-1thwdg5gwm0fm-2097141603.ap-southeast-2.elb.amazonaws.com (52.64.230.198), 64 hops max, 52 byte packets
+ 1  * * *
+ 2  152.15.249.0 (152.15.249.0)  4.876 ms  3.276 ms  3.764 ms
+ 3  128.109.16.53 (128.109.16.53)  7.916 ms  8.683 ms  7.641 ms
+ 4  ws-gw-to-gb-gw.ncren.net (128.109.9.37)  7.783 ms  17.051 ms  9.715 ms
+ 5  rtp-gw-to-ws-gw.ncren.net (128.109.9.33)  11.493 ms  11.164 ms  11.731 ms
+ 6  hundredge-0-0-0-24.613.core1.rale.net.internet2.edu (198.71.46.185)  15.543 ms  14.896 ms  15.533 ms
+ 7  fourhundredge-0-0-0-1.4079.core1.ashb.net.internet2.edu (163.253.2.84)  82.061 ms  83.699 ms *
+ 8  fourhundredge-0-0-0-18.4079.core2.ashb.net.internet2.edu (163.253.1.107)  337.533 ms
+    fourhundredge-0-0-0-17.4079.core2.ashb.net.internet2.edu (163.253.1.9)  82.715 ms
+    fourhundredge-0-0-0-1.4079.core1.clev.net.internet2.edu (163.253.1.123)  358.261 ms
+ 9  fourhundredge-0-0-0-23.4079.core2.clev.net.internet2.edu (163.253.2.147)  109.717 ms
+    fourhundredge-0-0-0-1.4079.core2.clev.net.internet2.edu (163.253.1.139)  105.947 ms  306.483 ms
+10  fourhundredge-0-0-0-2.4079.core2.eqch.net.internet2.edu (163.253.2.17)  105.536 ms  81.024 ms  142.985 ms
+11  fourhundredge-0-0-0-2.4079.core2.chic.net.internet2.edu (163.253.2.18)  129.633 ms  81.339 ms  81.967 ms
+12  fourhundredge-0-0-0-1.4079.core1.kans.net.internet2.edu (163.253.1.245)  81.874 ms  274.617 ms  81.403 ms
+13  fourhundredge-0-0-0-1.4079.core1.denv.net.internet2.edu (163.253.1.242)  129.644 ms  84.199 ms  227.133 ms
+14  fourhundredge-0-0-0-3.4079.core1.salt.net.internet2.edu (163.253.1.171)  83.548 ms  83.027 ms  87.891 ms
+15  fourhundredge-0-0-0-1.4079.core1.seat.net.internet2.edu (163.253.1.157)  220.383 ms  81.111 ms  82.078 ms
+16  fourhundredge-0-0-0-49.4079.agg2.seat.net.internet2.edu (163.253.1.167)  82.130 ms  277.193 ms
+    fourhundredge-0-0-0-49.4079.agg1.seat.net.internet2.edu (163.253.1.163)  81.009 ms
+17  99.82.179.38 (99.82.179.38)  81.168 ms  80.569 ms  245.571 ms
+18  * * *
+19  * * *
+20  205.251.225.233 (205.251.225.233)  84.633 ms  77.862 ms
+    205.251.225.249 (205.251.225.249)  76.264 ms
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  150.222.251.156 (150.222.251.156)  242.291 ms
+    150.222.255.30 (150.222.255.30)  219.784 ms
+    150.222.251.152 (150.222.251.152)  233.518 ms
+28  52.93.129.192 (52.93.129.192)  223.423 ms  232.191 ms  225.747 ms
+29  * * *
+30  * 52.95.36.154 (52.95.36.154)  223.055 ms
+    52.95.36.182 (52.95.36.182)  220.054 ms
+31  * * *
+32  150.222.112.164 (150.222.112.164)  222.283 ms
+    150.222.112.186 (150.222.112.186)  220.058 ms
+    150.222.112.188 (150.222.112.188)  221.472 ms
+33  52.95.36.107 (52.95.36.107)  257.432 ms
+    52.95.36.27 (52.95.36.27)  272.793 ms
+    52.95.36.75 (52.95.36.75)  222.052 ms
+34  150.222.112.10 (150.222.112.10)  228.161 ms
+    150.222.112.12 (150.222.112.12)  270.775 ms  273.775 ms
+35  * * *
+36  * * *
+37  * * *
+38  * * *
+39  * * *
+40  * * *
+41  * * *
+42  * * *
+43  * * *
+44  * * *
+45  * * *
+46  * * *
+47  * * *
+48  * * *
+49  * * *
+50  * * *
+51  * * *
+52  * * *
+53  * * *
+54  * * *
+55  * * *
+56  * * *
+57  * * *
+58  * * *
+59  * * *
+60  * * *
+61  * * *
+62  * * *
+63  * * *
+64  * * *
+matthewho@Matthews-MacBook-Pro-2 ~ % 

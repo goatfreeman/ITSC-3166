@@ -1,0 +1,22 @@
+Last login: Wed Mar  2 18:07:13 on ttys005
+matthewho@Matthews-MacBook-Pro-2 ~ % traceroute www.ucl.ac.uk
+traceroute: Warning: www.ucl.ac.uk has multiple addresses; using 104.18.21.50
+traceroute to www.ucl.ac.uk.cdn.cloudflare.net (104.18.21.50), 64 hops max, 52 byte packets
+ 1  * * *
+ 2  152.15.249.0 (152.15.249.0)  4.430 ms  4.374 ms  3.757 ms
+ 3  128.109.16.53 (128.109.16.53)  7.773 ms  9.108 ms  7.778 ms
+ 4  ws-gw-to-gb-gw.ncren.net (128.109.9.37)  9.373 ms  9.573 ms  9.680 ms
+ 5  hntvl-gw-to-ws-gw.ncren.net (128.109.9.21)  9.798 ms  9.267 ms  9.669 ms
+ 6  et-0-0-26.edge4.atlanta2.level3.net (4.15.180.73)  19.679 ms  19.136 ms  17.678 ms
+ 7  4.15.112.22 (4.15.112.22)  17.505 ms  18.643 ms  16.101 ms
+ 8  104.18.21.50 (104.18.21.50)  15.852 ms  14.482 ms  15.497 ms
+matthewho@Matthews-MacBook-Pro-2 ~ % 
+
+
+
+
+
+
+
+
+
